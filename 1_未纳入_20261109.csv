@@ -1,0 +1,68 @@
+﻿文献编号,样本(原文命名),0.xlsx行号,类别,说明
+3,C10,14,无 Epit 数值,0.xlsx 记 N/A
+19,CF8 (S1),102,无 Epit 数值,0.xlsx 记 N/A
+20,316LN (铸造),108,文献20 原文无成分,Cr/Ni 记「调整配比」、其余元素「未提及」，无法折算
+20,基础新成分 (铸造),109,文献20 原文无成分,Cr/Ni 记「调整配比」、其余元素「未提及」，无法折算
+20,含N新成分 (铸造),110,文献20 原文无成分,Cr/Ni 记「调整配比」、其余元素「未提及」，无法折算
+20,基础新成分 (锻造 2F-1020),111,文献20 原文无成分,Cr/Ni 记「调整配比」、其余元素「未提及」，无法折算
+20,基础新成分 (锻造 2F-1090),112,文献20 原文无成分,Cr/Ni 记「调整配比」、其余元素「未提及」，无法折算
+32,304L(晶粒尺寸 5/11/28 μm 统计组),166,无 Epit 数值,0.xlsx 记 N/A
+68,304不锈钢板材,303,无 Epit 数值,0.xlsx 记 N/A
+85,UNS S31603,361,无 Epit 数值,0.xlsx 记 N/A
+98,304L AR,390,无 Epit 数值,0.xlsx 记 N/A
+98,304L SHT 1010℃×20min,391,无 Epit 数值,0.xlsx 记 N/A
+98,304L SHT 1040℃×20min,392,无 Epit 数值,0.xlsx 记 N/A
+98,304L SHT 1070℃×20min,393,无 Epit 数值,0.xlsx 记 N/A
+98,304L SHT 1100℃×20min,394,无 Epit 数值,0.xlsx 记 N/A
+98,17Cr-6Mn-5Ni-1.5Cu AR,395,无 Epit 数值,0.xlsx 记 N/A
+98,17Cr-6Mn-5Ni-1.5Cu SHT 1010℃×20min,396,无 Epit 数值,0.xlsx 记 N/A
+98,17Cr-6Mn-5Ni-1.5Cu SHT 1040℃×20min,397,无 Epit 数值,0.xlsx 记 N/A
+98,17Cr-6Mn-5Ni-1.5Cu SHT 1070℃×20min,398,无 Epit 数值,0.xlsx 记 N/A
+98,17Cr-6Mn-5Ni-1.5Cu SHT 1100℃×20min,399,无 Epit 数值,0.xlsx 记 N/A
+99,304L,400,无 Epit 数值,0.xlsx 记 N/A
+104,316LSS-0CW,419,无 Epit 数值,0.xlsx 记 N/A
+109,AISI 316,440,无 Epit 数值,0.xlsx 记 N/A
+111,control and UNSM-treated 304 SS sheet material samples,442,无 Epit 数值,0.xlsx 记 N/A
+131,0.76N,511,无 Epit 数值,0.xlsx 记 N/A
+137,304 SS,528,无 Epit 数值,0.xlsx 记 N/A
+138,SAed,529,无 Epit 数值,0.xlsx 记 N/A
+149,SUS 304,556,无 Epit 数值,0.xlsx 记 N/A
+150,SUS304鋼標準試料(Standard),557,无 Epit 数值,0.xlsx 记 N/A
+151,SUS304、SUS316,558,无 Epit 数值,0.xlsx 记 N/A
+156,U1,569,无 Epit 数值,0.xlsx 记 N/A
+160,0V,581,无 Epit 数值,0.xlsx 记 N/A(待读图)
+160,0.1V,582,无 Epit 数值,0.xlsx 记 N/A(待读图)
+160,0.2V,583,无 Epit 数值,0.xlsx 记 N/A(待读图)
+160,0.3V,584,无 Epit 数值,0.xlsx 记 N/A(待读图)
+160,0.4V,585,无 Epit 数值,0.xlsx 记 N/A(待读图)
+161,A（1.1 μm）,586,无 Epit 数值,0.xlsx 记 N/A(待读图)
+161,B（3.0 μm）,587,无 Epit 数值,0.xlsx 记 N/A(待读图)
+161,C（10.2 μm）,588,无 Epit 数值,0.xlsx 记 N/A(待读图)
+161,D（50.0 μm）,589,无 Epit 数值,0.xlsx 记 N/A(待读图)
+163,Type 304,593,无 Epit 数值,0.xlsx 记 N/A(待读图)
+163,Type 316L,594,无 Epit 数值,0.xlsx 记 N/A(待读图)
+163,Type 316LN,595,无 Epit 数值,0.xlsx 记 N/A(待读图)
+163,High-N 316L,596,无 Epit 数值,0.xlsx 记 N/A(待读图)
+164,304,597,无 Epit 数值,0.xlsx 记 N/A(待读图)
+164,304-1,598,无 Epit 数值,0.xlsx 记 N/A(待读图)
+164,304-2,599,无 Epit 数值,0.xlsx 记 N/A(待读图)
+164,304-3,600,无 Epit 数值,0.xlsx 记 N/A(待读图)
+165,未提及,601,无 Epit 数值,0.xlsx 记 N/A(待读图)
+166,SUS304,602,无 Epit 数值,0.xlsx 记 N/A(待读图)
+167,HN,603,无 Epit 数值,0.xlsx 记 N/A(待读图)
+168,8367,604,参比无法识别,RE=未提及；Epit 不能统一到 SCE，未猜值
+168,904L,605,参比无法识别,RE=未提及；Epit 不能统一到 SCE，未猜值
+168,316L,606,参比无法识别,RE=未提及；Epit 不能统一到 SCE，未猜值
+169,304,607,无 Epit 数值,0.xlsx 记 N/A(待读图)
+169,316L,608,无 Epit 数值,0.xlsx 记 N/A(待读图)
+170,Re-sulfurized SS304,609,无 Epit 数值,0.xlsx 记 N/A(待读图)
+173,316L SS（0 MPa，stress-free）,619,无 Epit 数值,0.xlsx 记 N/A(待读图)
+173,316L SS（180 MPa）,620,无 Epit 数值,0.xlsx 记 N/A(待读图)
+173,316L SS（200 MPa）,621,无 Epit 数值,0.xlsx 记 N/A(待读图)
+174,Annealed,622,参比无法识别,RE=未提及；Epit 不能统一到 SCE，未猜值
+174,206 Mpa,623,参比无法识别,RE=未提及；Epit 不能统一到 SCE，未猜值
+174,313 Mpa,624,参比无法识别,RE=未提及；Epit 不能统一到 SCE，未猜值
+174,428 Mpa,625,参比无法识别,RE=未提及；Epit 不能统一到 SCE，未猜值
+174,508 Mpa,626,参比无法识别,RE=未提及；Epit 不能统一到 SCE，未猜值
+174,622 Mpa,627,参比无法识别,RE=未提及；Epit 不能统一到 SCE，未猜值
+176,as-received (solution annealed) 316 L stainless steel,629,无 Epit 数值,0.xlsx 记 N/A(待读图)

@@ -1,0 +1,23 @@
+# ===== 文献原文：因版权与体积原因不入库，目录本身保留为空 =====
+文献/*
+!文献/.gitkeep
+待/
+备份/
+*.pdf
+
+# ===== 临时与工具产物 =====
+temp/
+对话/
+.workbuddy/
+.dsh-vision-router/
+__pycache__/
+*.pyc
+
+# Agent 工作区规则：含内部路径与指令记录，非研究产出，不入库
+/AGENTS.md
+
+# ===== 系统垃圾 =====
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
