@@ -7,14 +7,10 @@
 
 # ===== 临时与工具产物 =====
 temp/
-对话/
 .workbuddy/
 .dsh-vision-router/
 __pycache__/
 *.pyc
-
-# Agent 工作区规则：含内部路径与指令记录，非研究产出，不入库
-/AGENTS.md
 
 # ===== 系统垃圾 =====
 Thumbs.db
